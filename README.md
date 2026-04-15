@@ -1,2 +1,2 @@
 # Hackif
-Booking slots 
+Restaurant Website for WCMS
